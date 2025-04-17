@@ -1,18 +1,10 @@
 import allure
-
-
 from selene import have, by
-
-from selene.support.shared import browser
-
-
-
-
 
 
 @allure.title("Successful fill form")
-def test_successful():
-
+def test_successful(setup_browser):
+    browser = setup_browser
     first_name = "Alex"
     last_name = "Egorov"
 
@@ -21,8 +13,6 @@ def test_successful():
         browser.element(".practice-form-wrapper").should(have.text("Student Registration Form"))
         browser.driver.execute_script("$('footer').remove()")
         browser.driver.execute_script("$('#fixedban').remove()")
-
-
 
     with allure.step("Fill form"):
         browser.element("#firstName").set_value(first_name)
@@ -49,9 +39,3 @@ def test_successful():
         browser.element("#example-modal-sizes-title-lg").should(have.text("Thanks for submitting the form"))
         # browser.element(".table-responsive").should(
         #     have.texts(first_name, last_name, "alex@egorov.com", "Some street 1"))
-
-    from tests.utils import attach
-    #attach.add_html(browser)
-    attach.add_screenshot(browser)
-    attach.add_logs(browser)
-
