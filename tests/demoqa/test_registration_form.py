@@ -50,8 +50,8 @@ def test_successful():
         # browser.element(".table-responsive").should(
         #     have.texts(first_name, last_name, "alex@egorov.com", "Some street 1"))
 
-    from allure_commons._allure import attach
-    attach.add_html(browser)
+    from tests.utils import attach
+    #attach.add_html(browser)
     attach.add_screenshot(browser)
     attach.add_logs(browser)
 
