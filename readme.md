@@ -70,14 +70,6 @@ pytest --alluredir=allure-results  # Запуск с сохранением от
 
 
 
-### Основные ключи `pytest`:
-- `-v` (verbose) — подробный вывод результатов тестирования.
-- `-s` (show output) — показывает `print` внутри тестов.
-- `--maxfail=N` — завершает тестирование после `N` неудачных тестов.
-- `-k 'substring'` — запускает только тесты, содержащие `substring` в названии.
-- `--tb=short` — сокращенный вывод трейсбека ошибок.
-- `allure serve tests/allure-results` — запускает локальный сервер с отчетом Allure.
-
 ## <img width="3%" title="Jenkins" src="logo/jenkins.png"> Запуск проекта в Jenkins
 [Job](https://jenkins.autotests.cloud/job/AnastasiyaKZC_Homework_L14/)
 
@@ -97,19 +89,8 @@ pytest --alluredir=allure-results  # Запуск с сохранением от
 Видео прохождения теста:
 ![Test Video](logo/test.gif)
 
-## <img width="3%" title="Allure TestOps" src="logo/allure_testops.png"> Интеграция с Allure TestOps
-[Dashboard](https://allure.autotests.cloud/launch/45474)
 
-Так же вся отчетность сохраняется в Allure TestOps, где строятся аналогичные графики.
-![Allure TestOps Dashboard](logo/testOps.png)
 
-Во вкладке со сьютами, мы можем:
-- Управлять всеми тест-кейсами или с каждым отдельно
-- Перезапускать каждый тест отдельно от всех тестов
-- Настроить интеграцию с Jira
-- Добавлять ручные тесты и т.д.
-
-![Allure TestOps Suites](logo/testops_suites.png)
 
 ## <img width="3%" title="Telegram" src="logo/tg.png"> Интеграция с Telegram
 После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестовом прогоне.
