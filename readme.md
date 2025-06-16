@@ -38,7 +38,7 @@
   <img width="5%" title="Jenkins" src="logo1/jenkins.png">
   <img width="5%" title="Selenoid" src="logo1/selenoid.png">
   <img width="5%" title="Allure Report" src="logo1/allure reports.png">
-  <img width="5%" title="Telegram" src="logo/telegram.png">
+  <img width="5%" title="Telegram" src="logo1/telegram.png">
 </p>
 
 ## Список проверок, реализованных в автотестах
