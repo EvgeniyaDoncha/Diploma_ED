@@ -80,18 +80,18 @@ pytest --alluredir=allure-results  # Запуск с сохранением от
 
 
 
-## <img width="3%" title="Jenkins" src="logo/jenkins.png"> Запуск проекта в Jenkins
+## <img width="3%" title="Jenkins" src="logo1/jenkins.png"> Запуск проекта в Jenkins
 [Job](https://jenkins.autotests.cloud/job/Diploma_ED_2025/)
 
-При нажатии на "Build with Parameters", а затем "Build" начнется сборка тестов и их прохождение через виртуальную машину в Selenide.
-![Jenkins Screenshot](logo/jenkins_screen.png)
+При нажатии на  "Build Now" начнется сборка тестов и их прохождение через виртуальную машину в Selenide.
+![Jenkins Screenshot](logo1/bild.png)
 
-## <img width="3%" title="Allure Report" src="logo/icon_allure.png"> Allure report
+## <img width="3%" title="Allure Report" src="logo1/allure reports.png"> Allure report
 После прохождения тестов, результаты можно посмотреть в Allure отчете, где также содержится ссылка на Jenkins.
-![Allure Dashboard](logo/allure_report.png)
+![Allure Dashboard](logo1/reports.png)
 
 Во вкладке Graphs можно посмотреть графики о прохождении тестов, по их приоритизации, по времени прохождения и др.
-![Allure Graphs](logo/graphs.png)
+![Allure Graphs](logo1/graphs.png)
 
 Во вкладке Suites находятся собранные тест-кейсы, у которых описаны шаги и приложены логи, скриншот и видео о прохождении теста.
 ![Allure Suites](logo/suites.png)

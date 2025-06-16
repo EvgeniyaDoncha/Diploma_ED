@@ -1,5 +1,13 @@
 import allure
+
 from selene import have, by
+from dotenv import load_dotenv
+
+
+
+
+
+
 
 
 @allure.title("Successful fill form")
@@ -38,4 +46,3 @@ def test_successful(setup_browser):
     with allure.step("Check form results"):
         browser.element("#example-modal-sizes-title-lg").should(have.text("Thanks for submitting the form"))
         # browser.element(".table-responsive").should(
-        #     have.texts(first_name, last_name, "alex@egorov.com", "Some street 1"))
