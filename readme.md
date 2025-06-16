@@ -9,19 +9,37 @@
 # Проект тестирования "demoqa.com" UI+API 
 
 
+## 🌐 DemoQA — учебный веб-сайт для практики тестирования
+
+![DemoQA Screenshot](https://demoqa.com/images/Toolsqa.jpg)
+
+**[DemoQA](https://demoqa.com)** — это учебный веб-сайт, предназначенный для практики тестирования веб-приложений.  
+Он предоставляет различные интерактивные элементы и сценарии, такие как:
+
+- формы,
+- кнопки,
+- таблицы,
+- всплывающие окна,
+- фреймы,
+- демо-приложение книжного магазина.
+
+Это идеальная платформа для тренировки навыков UI- и API-тестирования.
+
+
+
 
 ## Проект реализован с использованием 
 <p align="left">
-  <img width="5%" title="Pycharm" src="logo/pycharm.png"> 
-  <img width="5%" title="Python" src="logo/python.png">
-  <img width="5%" title="Pytest" src="logo/pytest.png">
-  <img width="5%" title="Selene" src="logo/selene.png">
-  <img width="5%" title="GitHub" src="logo/github.png">
-  <img width="5%" title="Jenkins" src="logo/jenkins.png">
-  <img width="5%" title="Selenoid" src="logo/selenoid.png">
-  <img width="5%" title="Allure Report" src="logo/icon_allure.png">
-  <img width="5%" title="Allure TestOps" src="logo/allure_testops.png">
-  <img width="5%" title="Telegram" src="logo/tg.png">
+  <img width="5%" title="PyCharm" src="https://raw.githubusercontent.com/JetBrains/logos/master/pycharm/pycharm.png">
+  <img width="5%" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png">
+  <img width="5%" title="Pytest" src="https://raw.githubusercontent.com/SerhiiCho/icon-pack/main/icons/pytest.png">
+  <img width="5%" title="Selene" src="https://raw.githubusercontent.com/yashaka/selene/master/docs/_static/selene-logo.png">
+  <img width="5%" title="GitHub" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Github.svg">
+  <img width="5%" title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.png">
+  <img width="5%" title="Selenoid" src="https://aerokube.com/images/selenoid-logo.png">
+  <img width="5%" title="Allure Report" src="https://docs.qameta.io/img/allure.svg">
+  <img width="5%" title="Allure TestOps" src="https://avatars.githubusercontent.com/u/68425100?s=200&v=4">
+  <img width="5%" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">
 </p>
 
 ## Список проверок, реализованных в автотестах
