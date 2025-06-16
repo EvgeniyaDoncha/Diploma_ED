@@ -30,15 +30,14 @@
 
 ## Проект реализован с использованием 
 <p align="left">
-  <img width="5%" title="PyCharm" src="https://raw.githubusercontent.com/JetBrains/logos/master/pycharm/pycharm.png">
-  <img width="5%" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png">
-  <img width="5%" title="Pytest" src="https://raw.githubusercontent.com/SerhiiCho/icon-pack/main/icons/pytest.png">
-  <img width="5%" title="Selene" src="https://raw.githubusercontent.com/yashaka/selene/master/docs/_static/selene-logo.png">
-  <img width="5%" title="GitHub" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Github.svg">
-  <img width="5%" title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.png">
-  <img width="5%" title="Selenoid" src="https://aerokube.com/images/selenoid-logo.png">
-  <img width="5%" title="Allure Report" src="https://docs.qameta.io/img/allure.svg">
-  <img width="5%" title="Allure TestOps" src="https://avatars.githubusercontent.com/u/68425100?s=200&v=4">
+  <img width="40" title="PyCharm" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
+  <img width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png">
+  <img width="40" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pytest_logo.svg">
+  <img width="40" title="Selene" src="https://raw.githubusercontent.com/yashaka/selene/master/docs/_static/selene-logo.png">
+  <img width="40" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img width="40" title="Jenkins" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png">
+  <img width="40" title="Selenoid" src="https://aerokube.com/images/selenoid-logo.png">
+  <img width="40" title="Allure Report" src="https://avatars.githubusercontent.com/u/68425100?s=200&v=4">
   <img width="5%" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">
 </p>
 
