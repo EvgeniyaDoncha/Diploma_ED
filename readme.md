@@ -29,7 +29,7 @@
 
 
 ## Проект реализован с использованием 
-<p align="left">More actions
+<p align="left">
   <img width="5%" title="Pycharm" src="logo1/pycharm.png"> 
   <img width="5%" title="Python" src="logo1/python.png">
   <img width="5%" title="Pytest" src="logo1/pytest.png">
@@ -37,8 +37,8 @@
   <img width="5%" title="GitHub" src="logo1/github.png">
   <img width="5%" title="Jenkins" src="logo1/jenkins.png">
   <img width="5%" title="Selenoid" src="logo1/selenoid.png">
-  <img width="5%" title="Allure Report" src="logo1/icon_allure.png">
-  <img width="5%" title="Telegram" src="logo/tg.png">
+  <img width="5%" title="Allure Report" src="logo1/allure reports.png">
+  <img width="5%" title="Telegram" src="logo/telegram.png">
 </p>
 
 ## Список проверок, реализованных в автотестах
