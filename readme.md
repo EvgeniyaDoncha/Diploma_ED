@@ -29,16 +29,16 @@
 
 
 ## Проект реализован с использованием 
-<p align="left">
- <img width="40" title="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.png">
-  <img width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png">
-  <img width="40" title="Pytest" src="https://raw.githubusercontent.com/SerhiiCho/icon-pack/main/icons/pytest.png">
-  <img width="40" title="Selene" src="https://raw.githubusercontent.com/yashaka/selene/master/docs/_static/selene-logo.png">
-  <img width="40" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img width="40" title="Jenkins" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png">
-  <img width="40" title="Selenoid" src="https://user-images.githubusercontent.com/ваш-id/selenoid.png">
-  <img width="40" title="Allure Report" src="https://avatars.githubusercontent.com/u/68425100?s=200&v=4">
-  <img width="5%" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">
+<p align="left">More actions
+  <img width="5%" title="Pycharm" src="logo1/pycharm.png"> 
+  <img width="5%" title="Python" src="logo1/python.png">
+  <img width="5%" title="Pytest" src="logo1/pytest.png">
+  <img width="5%" title="Selene" src="logo1/selene.png">
+  <img width="5%" title="GitHub" src="logo1/github.png">
+  <img width="5%" title="Jenkins" src="logo1/jenkins.png">
+  <img width="5%" title="Selenoid" src="logo1/selenoid.png">
+  <img width="5%" title="Allure Report" src="logo1/icon_allure.png">
+  <img width="5%" title="Telegram" src="logo/tg.png">
 </p>
 
 ## Список проверок, реализованных в автотестах
