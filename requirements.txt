@@ -2,6 +2,8 @@ pytest==8.3.5
 allure-pytest==2.14.0
 	
 allure-python-commons==2.14.0
-selene==2.0.0rc9
+selene==2.0.0rc4
 requests==2.32.3
 selenium==4.31.0
+pytest-dotenv==1.1.0
+
